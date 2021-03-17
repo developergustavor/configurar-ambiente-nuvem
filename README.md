@@ -1,6 +1,6 @@
 # S.O disponíveis
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Former_Ubuntu_logo.svg/1280px-Former_Ubuntu_logo.svg.png" width="250" height="150" style="object-fit: contain !important;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Former_Ubuntu_logo.svg/1280px-Former_Ubuntu_logo.svg.png" width="350" height="150" style="object-fit: contain !important;" />
 
 - Versão: **20.4 (LTS) x64 +**
 
