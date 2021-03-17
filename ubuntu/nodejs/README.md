@@ -1,26 +1,26 @@
 # Pacotes + ferramentas
 
-![https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Curl-logo.svg/1200px-Curl-logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Curl-logo.svg/1200px-Curl-logo.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Curl-logo.svg/1200px-Curl-logo.svg.png" width="250" height="150" style="object-fit: contain !important;" />
 
 - Versão: **latest**
 
-![https://www.bram.us/wordpress/wp-content/uploads/2016/10/yarn-kitten-full.png](https://www.bram.us/wordpress/wp-content/uploads/2016/10/yarn-kitten-full.png)
+<img src="https://www.bram.us/wordpress/wp-content/uploads/2016/10/yarn-kitten-full.png" width="250" height="150" style="object-fit: contain !important;" />
 
 - Versão: **latest**
 
-![https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" width="250" height="150" style="object-fit: contain !important;" />
 
 - Versão: **latest**
 
-![https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" width="250" height="150" style="object-fit: contain !important;" />
 
 - Versão: **escolhida** ou **14.x**
 
-![https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png](https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png)
+<img src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png" width="250" height="150" style="object-fit: contain !important;" />
 
 - Versão: **latest**
 
-![http://openwhisk.apache.org/images/deployments/logo-docker-compose-text.svg](http://openwhisk.apache.org/images/deployments/logo-docker-compose-text.svg)
+<img src="http://openwhisk.apache.org/images/deployments/logo-docker-compose-text.svg" width="250" height="150" style="object-fit: contain !important;" />
 
 - Versão: **escolhida** ou **1.26.2**
 
