@@ -1,2 +1,31 @@
-# configurar-ambiente-nuvem
-Arquivos de configuração automática de ambientes em nuvem
+# S.O disponíveis
+
+![https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Former_Ubuntu_logo.svg/1280px-Former_Ubuntu_logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Former_Ubuntu_logo.svg/1280px-Former_Ubuntu_logo.svg.png)
+
+- Versão: **20.4 (LTS) x64 +**
+
+---
+
+# Estruturas disponíveis
+
+![https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png)
+
+- Versão: **14.x +**
+
+---
+
+# Configuração do ambiente
+
+1. Faça o download do repositório
+2. Abra a linha de comando na pasta que possui a estrutura desejada
+3. Siga os passos do arquivo [**`README.md`**](http://readme.md) da pasta escolhida
+
+---
+
+# Autor
+
+### **Gustavo Luxo**
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/63c9fc29-ea42-47ac-aa73-cbea9aca78a8/me.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/63c9fc29-ea42-47ac-aa73-cbea9aca78a8/me.png)
+
+[developergustavor - Overview](https://github.com/developergustavor)
