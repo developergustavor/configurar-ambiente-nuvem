@@ -1,6 +1,6 @@
 # S.O disponíveis
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Former_Ubuntu_logo.svg/1280px-Former_Ubuntu_logo.svg.png" width="250" height="100" style="object-fit: contain !important;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Former_Ubuntu_logo.svg/1280px-Former_Ubuntu_logo.svg.png" width="250" height="150" style="object-fit: contain !important;" />
 
 - Versão: **20.4 (LTS) x64 +**
 
@@ -8,7 +8,7 @@
 
 # Estruturas disponíveis
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" width="250" height="100" style="object-fit: contain !important;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" width="250" height="150" style="object-fit: contain !important;" />
 
 - Versão: **14.x +**
 
@@ -26,6 +26,6 @@
 
 ### **Gustavo Luxo**
 
-<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/63c9fc29-ea42-47ac-aa73-cbea9aca78a8/me.png" width="250" height="100" style="object-fit: contain !important;" />
+<img src="https://avatars.githubusercontent.com/u/52509644?s=60&amp;u=0dd4d5d3e290d7fee57e92483093198e98888d80&amp;v=4" alt="@developergustavor" height="150" width="250" style="object-fit: contain !important;" />
 
 [developergustavor - Overview](https://github.com/developergustavor)
