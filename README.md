@@ -8,7 +8,7 @@
 
 # Estruturas disponíveis
 
-![https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" width="250" height="100" style="object-fit: contain !important;" />
 
 - Versão: **14.x +**
 
@@ -26,6 +26,6 @@
 
 ### **Gustavo Luxo**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/63c9fc29-ea42-47ac-aa73-cbea9aca78a8/me.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/63c9fc29-ea42-47ac-aa73-cbea9aca78a8/me.png)
+<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/63c9fc29-ea42-47ac-aa73-cbea9aca78a8/me.png" width="250" height="100" style="object-fit: contain !important;" />
 
 [developergustavor - Overview](https://github.com/developergustavor)
